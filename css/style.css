@@ -220,10 +220,11 @@ p.yazirusi img {
 
 p.bar img {
     position: relative;
+    margin: 0 0 0 auto;
     width: 80vw;
     max-height: 100px;
     left:05vw;
-    bottom: 10vh;
+    bottom: 8vh;
 }
 
 
